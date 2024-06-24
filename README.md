@@ -10,5 +10,5 @@ Music Classification Module: Using sophisticated audio feature analysis, this mo
 
 Recommendation Module: By aligning the user's identified emotions with the classified mood types of songs, this module suggests personalized music recommendations. It also takes into account the user's individual preferences for an enhanced listening experience.
 
-PyCharm (IDE for Python) - Librosa and Ffmpeg Libraries - Jupyter Notebook - TensorFlow Environment - PyTorch - OpenCV 
+Tools : PyCharm (IDE for Python) - Librosa and Ffmpeg Libraries - Jupyter Notebook - TensorFlow Environment - PyTorch - OpenCV 
 
